@@ -1,0 +1,962 @@
+[
+  {
+    "area": "Hadapsar",
+    "latitude": 18.5193,
+    "longitude": 73.9423,
+    "crime_type": "domestic_violence",
+    "crime_count": 88,
+    "year": 2023
+  },
+  {
+    "area": "Hadapsar",
+    "latitude": 18.5193,
+    "longitude": 73.9423,
+    "crime_type": "assault",
+    "crime_count": 31,
+    "year": 2023
+  },
+  {
+    "area": "Hadapsar",
+    "latitude": 18.5193,
+    "longitude": 73.9423,
+    "crime_type": "harassment",
+    "crime_count": 51,
+    "year": 2023
+  },
+  {
+    "area": "Hadapsar",
+    "latitude": 18.5193,
+    "longitude": 73.9423,
+    "crime_type": "stalking",
+    "crime_count": 19,
+    "year": 2023
+  },
+  {
+    "area": "Hadapsar",
+    "latitude": 18.5193,
+    "longitude": 73.9423,
+    "crime_type": "dowry_deaths",
+    "crime_count": 12,
+    "year": 2023
+  },
+  {
+    "area": "Hadapsar",
+    "latitude": 18.5193,
+    "longitude": 73.9423,
+    "crime_type": "other",
+    "crime_count": 2,
+    "year": 2023
+  },
+  {
+    "area": "Kondhwa",
+    "latitude": 18.4912,
+    "longitude": 73.9278,
+    "crime_type": "domestic_violence",
+    "crime_count": 53,
+    "year": 2023
+  },
+  {
+    "area": "Kondhwa",
+    "latitude": 18.4912,
+    "longitude": 73.9278,
+    "crime_type": "assault",
+    "crime_count": 58,
+    "year": 2023
+  },
+  {
+    "area": "Kondhwa",
+    "latitude": 18.4912,
+    "longitude": 73.9278,
+    "crime_type": "harassment",
+    "crime_count": 33,
+    "year": 2023
+  },
+  {
+    "area": "Kondhwa",
+    "latitude": 18.4912,
+    "longitude": 73.9278,
+    "crime_type": "stalking",
+    "crime_count": 13,
+    "year": 2023
+  },
+  {
+    "area": "Kondhwa",
+    "latitude": 18.4912,
+    "longitude": 73.9278,
+    "crime_type": "dowry_deaths",
+    "crime_count": 12,
+    "year": 2023
+  },
+  {
+    "area": "Kondhwa",
+    "latitude": 18.4912,
+    "longitude": 73.9278,
+    "crime_type": "other",
+    "crime_count": 4,
+    "year": 2023
+  },
+  {
+    "area": "Wanowrie",
+    "latitude": 18.4873,
+    "longitude": 73.9021,
+    "crime_type": "domestic_violence",
+    "crime_count": 51,
+    "year": 2023
+  },
+  {
+    "area": "Wanowrie",
+    "latitude": 18.4873,
+    "longitude": 73.9021,
+    "crime_type": "assault",
+    "crime_count": 55,
+    "year": 2023
+  },
+  {
+    "area": "Wanowrie",
+    "latitude": 18.4873,
+    "longitude": 73.9021,
+    "crime_type": "harassment",
+    "crime_count": 17,
+    "year": 2023
+  },
+  {
+    "area": "Wanowrie",
+    "latitude": 18.4873,
+    "longitude": 73.9021,
+    "crime_type": "stalking",
+    "crime_count": 17,
+    "year": 2023
+  },
+  {
+    "area": "Wanowrie",
+    "latitude": 18.4873,
+    "longitude": 73.9021,
+    "crime_type": "dowry_deaths",
+    "crime_count": 6,
+    "year": 2023
+  },
+  {
+    "area": "Wanowrie",
+    "latitude": 18.4873,
+    "longitude": 73.9021,
+    "crime_type": "other",
+    "crime_count": 1,
+    "year": 2023
+  },
+  {
+    "area": "Bibvewadi",
+    "latitude": 18.4756,
+    "longitude": 73.8765,
+    "crime_type": "domestic_violence",
+    "crime_count": 47,
+    "year": 2023
+  },
+  {
+    "area": "Bibvewadi",
+    "latitude": 18.4756,
+    "longitude": 73.8765,
+    "crime_type": "assault",
+    "crime_count": 31,
+    "year": 2023
+  },
+  {
+    "area": "Bibvewadi",
+    "latitude": 18.4756,
+    "longitude": 73.8765,
+    "crime_type": "harassment",
+    "crime_count": 41,
+    "year": 2023
+  },
+  {
+    "area": "Bibvewadi",
+    "latitude": 18.4756,
+    "longitude": 73.8765,
+    "crime_type": "stalking",
+    "crime_count": 7,
+    "year": 2023
+  },
+  {
+    "area": "Bibvewadi",
+    "latitude": 18.4756,
+    "longitude": 73.8765,
+    "crime_type": "dowry_deaths",
+    "crime_count": 8,
+    "year": 2023
+  },
+  {
+    "area": "Bibvewadi",
+    "latitude": 18.4756,
+    "longitude": 73.8765,
+    "crime_type": "other",
+    "crime_count": 3,
+    "year": 2023
+  },
+  {
+    "area": "Swargate",
+    "latitude": 18.5023,
+    "longitude": 73.8567,
+    "crime_type": "domestic_violence",
+    "crime_count": 108,
+    "year": 2023
+  },
+  {
+    "area": "Swargate",
+    "latitude": 18.5023,
+    "longitude": 73.8567,
+    "crime_type": "assault",
+    "crime_count": 56,
+    "year": 2023
+  },
+  {
+    "area": "Swargate",
+    "latitude": 18.5023,
+    "longitude": 73.8567,
+    "crime_type": "harassment",
+    "crime_count": 47,
+    "year": 2023
+  },
+  {
+    "area": "Swargate",
+    "latitude": 18.5023,
+    "longitude": 73.8567,
+    "crime_type": "stalking",
+    "crime_count": 18,
+    "year": 2023
+  },
+  {
+    "area": "Swargate",
+    "latitude": 18.5023,
+    "longitude": 73.8567,
+    "crime_type": "dowry_deaths",
+    "crime_count": 4,
+    "year": 2023
+  },
+  {
+    "area": "Swargate",
+    "latitude": 18.5023,
+    "longitude": 73.8567,
+    "crime_type": "other",
+    "crime_count": 3,
+    "year": 2023
+  },
+  {
+    "area": "Shivaji Nagar",
+    "latitude": 18.5306,
+    "longitude": 73.8447,
+    "crime_type": "domestic_violence",
+    "crime_count": 61,
+    "year": 2023
+  },
+  {
+    "area": "Shivaji Nagar",
+    "latitude": 18.5306,
+    "longitude": 73.8447,
+    "crime_type": "assault",
+    "crime_count": 36,
+    "year": 2023
+  },
+  {
+    "area": "Shivaji Nagar",
+    "latitude": 18.5306,
+    "longitude": 73.8447,
+    "crime_type": "harassment",
+    "crime_count": 57,
+    "year": 2023
+  },
+  {
+    "area": "Shivaji Nagar",
+    "latitude": 18.5306,
+    "longitude": 73.8447,
+    "crime_type": "stalking",
+    "crime_count": 14,
+    "year": 2023
+  },
+  {
+    "area": "Shivaji Nagar",
+    "latitude": 18.5306,
+    "longitude": 73.8447,
+    "crime_type": "dowry_deaths",
+    "crime_count": 7,
+    "year": 2023
+  },
+  {
+    "area": "Shivaji Nagar",
+    "latitude": 18.5306,
+    "longitude": 73.8447,
+    "crime_type": "other",
+    "crime_count": 2,
+    "year": 2023
+  },
+  {
+    "area": "Ganesh Peth",
+    "latitude": 18.5156,
+    "longitude": 73.8628,
+    "crime_type": "domestic_violence",
+    "crime_count": 39,
+    "year": 2023
+  },
+  {
+    "area": "Ganesh Peth",
+    "latitude": 18.5156,
+    "longitude": 73.8628,
+    "crime_type": "assault",
+    "crime_count": 49,
+    "year": 2023
+  },
+  {
+    "area": "Ganesh Peth",
+    "latitude": 18.5156,
+    "longitude": 73.8628,
+    "crime_type": "harassment",
+    "crime_count": 21,
+    "year": 2023
+  },
+  {
+    "area": "Ganesh Peth",
+    "latitude": 18.5156,
+    "longitude": 73.8628,
+    "crime_type": "stalking",
+    "crime_count": 9,
+    "year": 2023
+  },
+  {
+    "area": "Ganesh Peth",
+    "latitude": 18.5156,
+    "longitude": 73.8628,
+    "crime_type": "dowry_deaths",
+    "crime_count": 5,
+    "year": 2023
+  },
+  {
+    "area": "Ganesh Peth",
+    "latitude": 18.5156,
+    "longitude": 73.8628,
+    "crime_type": "other",
+    "crime_count": 3,
+    "year": 2023
+  },
+  {
+    "area": "Dhole Patil Rd",
+    "latitude": 18.5312,
+    "longitude": 73.8689,
+    "crime_type": "domestic_violence",
+    "crime_count": 89,
+    "year": 2023
+  },
+  {
+    "area": "Dhole Patil Rd",
+    "latitude": 18.5312,
+    "longitude": 73.8689,
+    "crime_type": "assault",
+    "crime_count": 45,
+    "year": 2023
+  },
+  {
+    "area": "Dhole Patil Rd",
+    "latitude": 18.5312,
+    "longitude": 73.8689,
+    "crime_type": "harassment",
+    "crime_count": 21,
+    "year": 2023
+  },
+  {
+    "area": "Dhole Patil Rd",
+    "latitude": 18.5312,
+    "longitude": 73.8689,
+    "crime_type": "stalking",
+    "crime_count": 17,
+    "year": 2023
+  },
+  {
+    "area": "Dhole Patil Rd",
+    "latitude": 18.5312,
+    "longitude": 73.8689,
+    "crime_type": "dowry_deaths",
+    "crime_count": 9,
+    "year": 2023
+  },
+  {
+    "area": "Dhole Patil Rd",
+    "latitude": 18.5312,
+    "longitude": 73.8689,
+    "crime_type": "other",
+    "crime_count": 2,
+    "year": 2023
+  },
+  {
+    "area": "Kothrud",
+    "latitude": 18.5095,
+    "longitude": 73.8075,
+    "crime_type": "domestic_violence",
+    "crime_count": 64,
+    "year": 2023
+  },
+  {
+    "area": "Kothrud",
+    "latitude": 18.5095,
+    "longitude": 73.8075,
+    "crime_type": "assault",
+    "crime_count": 38,
+    "year": 2023
+  },
+  {
+    "area": "Kothrud",
+    "latitude": 18.5095,
+    "longitude": 73.8075,
+    "crime_type": "harassment",
+    "crime_count": 40,
+    "year": 2023
+  },
+  {
+    "area": "Kothrud",
+    "latitude": 18.5095,
+    "longitude": 73.8075,
+    "crime_type": "stalking",
+    "crime_count": 6,
+    "year": 2023
+  },
+  {
+    "area": "Kothrud",
+    "latitude": 18.5095,
+    "longitude": 73.8075,
+    "crime_type": "dowry_deaths",
+    "crime_count": 8,
+    "year": 2023
+  },
+  {
+    "area": "Kothrud",
+    "latitude": 18.5095,
+    "longitude": 73.8075,
+    "crime_type": "other",
+    "crime_count": 4,
+    "year": 2023
+  },
+  {
+    "area": "Aundh",
+    "latitude": 18.5745,
+    "longitude": 73.8187,
+    "crime_type": "domestic_violence",
+    "crime_count": 44,
+    "year": 2023
+  },
+  {
+    "area": "Aundh",
+    "latitude": 18.5745,
+    "longitude": 73.8187,
+    "crime_type": "assault",
+    "crime_count": 40,
+    "year": 2023
+  },
+  {
+    "area": "Aundh",
+    "latitude": 18.5745,
+    "longitude": 73.8187,
+    "crime_type": "harassment",
+    "crime_count": 23,
+    "year": 2023
+  },
+  {
+    "area": "Aundh",
+    "latitude": 18.5745,
+    "longitude": 73.8187,
+    "crime_type": "stalking",
+    "crime_count": 10,
+    "year": 2023
+  },
+  {
+    "area": "Aundh",
+    "latitude": 18.5745,
+    "longitude": 73.8187,
+    "crime_type": "dowry_deaths",
+    "crime_count": 6,
+    "year": 2023
+  },
+  {
+    "area": "Aundh",
+    "latitude": 18.5745,
+    "longitude": 73.8187,
+    "crime_type": "other",
+    "crime_count": 2,
+    "year": 2023
+  },
+  {
+    "area": "Baner",
+    "latitude": 18.5594,
+    "longitude": 73.8076,
+    "crime_type": "domestic_violence",
+    "crime_count": 73,
+    "year": 2023
+  },
+  {
+    "area": "Baner",
+    "latitude": 18.5594,
+    "longitude": 73.8076,
+    "crime_type": "assault",
+    "crime_count": 43,
+    "year": 2023
+  },
+  {
+    "area": "Baner",
+    "latitude": 18.5594,
+    "longitude": 73.8076,
+    "crime_type": "harassment",
+    "crime_count": 18,
+    "year": 2023
+  },
+  {
+    "area": "Baner",
+    "latitude": 18.5594,
+    "longitude": 73.8076,
+    "crime_type": "stalking",
+    "crime_count": 15,
+    "year": 2023
+  },
+  {
+    "area": "Baner",
+    "latitude": 18.5594,
+    "longitude": 73.8076,
+    "crime_type": "dowry_deaths",
+    "crime_count": 9,
+    "year": 2023
+  },
+  {
+    "area": "Baner",
+    "latitude": 18.5594,
+    "longitude": 73.8076,
+    "crime_type": "other",
+    "crime_count": 4,
+    "year": 2023
+  },
+  {
+    "area": "Wakad",
+    "latitude": 18.5981,
+    "longitude": 73.7647,
+    "crime_type": "domestic_violence",
+    "crime_count": 46,
+    "year": 2023
+  },
+  {
+    "area": "Wakad",
+    "latitude": 18.5981,
+    "longitude": 73.7647,
+    "crime_type": "assault",
+    "crime_count": 57,
+    "year": 2023
+  },
+  {
+    "area": "Wakad",
+    "latitude": 18.5981,
+    "longitude": 73.7647,
+    "crime_type": "harassment",
+    "crime_count": 33,
+    "year": 2023
+  },
+  {
+    "area": "Wakad",
+    "latitude": 18.5981,
+    "longitude": 73.7647,
+    "crime_type": "stalking",
+    "crime_count": 7,
+    "year": 2023
+  },
+  {
+    "area": "Wakad",
+    "latitude": 18.5981,
+    "longitude": 73.7647,
+    "crime_type": "dowry_deaths",
+    "crime_count": 7,
+    "year": 2023
+  },
+  {
+    "area": "Wakad",
+    "latitude": 18.5981,
+    "longitude": 73.7647,
+    "crime_type": "other",
+    "crime_count": 4,
+    "year": 2023
+  },
+  {
+    "area": "Hinjewadi",
+    "latitude": 18.5989,
+    "longitude": 73.7387,
+    "crime_type": "domestic_violence",
+    "crime_count": 50,
+    "year": 2023
+  },
+  {
+    "area": "Hinjewadi",
+    "latitude": 18.5989,
+    "longitude": 73.7387,
+    "crime_type": "assault",
+    "crime_count": 54,
+    "year": 2023
+  },
+  {
+    "area": "Hinjewadi",
+    "latitude": 18.5989,
+    "longitude": 73.7387,
+    "crime_type": "harassment",
+    "crime_count": 39,
+    "year": 2023
+  },
+  {
+    "area": "Hinjewadi",
+    "latitude": 18.5989,
+    "longitude": 73.7387,
+    "crime_type": "stalking",
+    "crime_count": 16,
+    "year": 2023
+  },
+  {
+    "area": "Hinjewadi",
+    "latitude": 18.5989,
+    "longitude": 73.7387,
+    "crime_type": "dowry_deaths",
+    "crime_count": 4,
+    "year": 2023
+  },
+  {
+    "area": "Hinjewadi",
+    "latitude": 18.5989,
+    "longitude": 73.7387,
+    "crime_type": "other",
+    "crime_count": 2,
+    "year": 2023
+  },
+  {
+    "area": "Viman Nagar",
+    "latitude": 18.5679,
+    "longitude": 73.9144,
+    "crime_type": "domestic_violence",
+    "crime_count": 71,
+    "year": 2023
+  },
+  {
+    "area": "Viman Nagar",
+    "latitude": 18.5679,
+    "longitude": 73.9144,
+    "crime_type": "assault",
+    "crime_count": 56,
+    "year": 2023
+  },
+  {
+    "area": "Viman Nagar",
+    "latitude": 18.5679,
+    "longitude": 73.9144,
+    "crime_type": "harassment",
+    "crime_count": 29,
+    "year": 2023
+  },
+  {
+    "area": "Viman Nagar",
+    "latitude": 18.5679,
+    "longitude": 73.9144,
+    "crime_type": "stalking",
+    "crime_count": 9,
+    "year": 2023
+  },
+  {
+    "area": "Viman Nagar",
+    "latitude": 18.5679,
+    "longitude": 73.9144,
+    "crime_type": "dowry_deaths",
+    "crime_count": 9,
+    "year": 2023
+  },
+  {
+    "area": "Viman Nagar",
+    "latitude": 18.5679,
+    "longitude": 73.9144,
+    "crime_type": "other",
+    "crime_count": 4,
+    "year": 2023
+  },
+  {
+    "area": "Khadki",
+    "latitude": 18.564,
+    "longitude": 73.8768,
+    "crime_type": "domestic_violence",
+    "crime_count": 65,
+    "year": 2023
+  },
+  {
+    "area": "Khadki",
+    "latitude": 18.564,
+    "longitude": 73.8768,
+    "crime_type": "assault",
+    "crime_count": 43,
+    "year": 2023
+  },
+  {
+    "area": "Khadki",
+    "latitude": 18.564,
+    "longitude": 73.8768,
+    "crime_type": "harassment",
+    "crime_count": 29,
+    "year": 2023
+  },
+  {
+    "area": "Khadki",
+    "latitude": 18.564,
+    "longitude": 73.8768,
+    "crime_type": "stalking",
+    "crime_count": 15,
+    "year": 2023
+  },
+  {
+    "area": "Khadki",
+    "latitude": 18.564,
+    "longitude": 73.8768,
+    "crime_type": "dowry_deaths",
+    "crime_count": 9,
+    "year": 2023
+  },
+  {
+    "area": "Khadki",
+    "latitude": 18.564,
+    "longitude": 73.8768,
+    "crime_type": "other",
+    "crime_count": 4,
+    "year": 2023
+  },
+  {
+    "area": "Yerawada",
+    "latitude": 18.5479,
+    "longitude": 73.8774,
+    "crime_type": "domestic_violence",
+    "crime_count": 71,
+    "year": 2023
+  },
+  {
+    "area": "Yerawada",
+    "latitude": 18.5479,
+    "longitude": 73.8774,
+    "crime_type": "assault",
+    "crime_count": 25,
+    "year": 2023
+  },
+  {
+    "area": "Yerawada",
+    "latitude": 18.5479,
+    "longitude": 73.8774,
+    "crime_type": "harassment",
+    "crime_count": 18,
+    "year": 2023
+  },
+  {
+    "area": "Yerawada",
+    "latitude": 18.5479,
+    "longitude": 73.8774,
+    "crime_type": "stalking",
+    "crime_count": 11,
+    "year": 2023
+  },
+  {
+    "area": "Yerawada",
+    "latitude": 18.5479,
+    "longitude": 73.8774,
+    "crime_type": "dowry_deaths",
+    "crime_count": 6,
+    "year": 2023
+  },
+  {
+    "area": "Yerawada",
+    "latitude": 18.5479,
+    "longitude": 73.8774,
+    "crime_type": "other",
+    "crime_count": 4,
+    "year": 2023
+  },
+  {
+    "area": "Koregaon Park",
+    "latitude": 18.5362,
+    "longitude": 73.8957,
+    "crime_type": "domestic_violence",
+    "crime_count": 83,
+    "year": 2023
+  },
+  {
+    "area": "Koregaon Park",
+    "latitude": 18.5362,
+    "longitude": 73.8957,
+    "crime_type": "assault",
+    "crime_count": 44,
+    "year": 2023
+  },
+  {
+    "area": "Koregaon Park",
+    "latitude": 18.5362,
+    "longitude": 73.8957,
+    "crime_type": "harassment",
+    "crime_count": 34,
+    "year": 2023
+  },
+  {
+    "area": "Koregaon Park",
+    "latitude": 18.5362,
+    "longitude": 73.8957,
+    "crime_type": "stalking",
+    "crime_count": 8,
+    "year": 2023
+  },
+  {
+    "area": "Koregaon Park",
+    "latitude": 18.5362,
+    "longitude": 73.8957,
+    "crime_type": "dowry_deaths",
+    "crime_count": 11,
+    "year": 2023
+  },
+  {
+    "area": "Koregaon Park",
+    "latitude": 18.5362,
+    "longitude": 73.8957,
+    "crime_type": "other",
+    "crime_count": 2,
+    "year": 2023
+  },
+  {
+    "area": "Fatima Nagar",
+    "latitude": 18.5089,
+    "longitude": 73.8789,
+    "crime_type": "domestic_violence",
+    "crime_count": 57,
+    "year": 2023
+  },
+  {
+    "area": "Fatima Nagar",
+    "latitude": 18.5089,
+    "longitude": 73.8789,
+    "crime_type": "assault",
+    "crime_count": 47,
+    "year": 2023
+  },
+  {
+    "area": "Fatima Nagar",
+    "latitude": 18.5089,
+    "longitude": 73.8789,
+    "crime_type": "harassment",
+    "crime_count": 28,
+    "year": 2023
+  },
+  {
+    "area": "Fatima Nagar",
+    "latitude": 18.5089,
+    "longitude": 73.8789,
+    "crime_type": "stalking",
+    "crime_count": 14,
+    "year": 2023
+  },
+  {
+    "area": "Fatima Nagar",
+    "latitude": 18.5089,
+    "longitude": 73.8789,
+    "crime_type": "dowry_deaths",
+    "crime_count": 6,
+    "year": 2023
+  },
+  {
+    "area": "Fatima Nagar",
+    "latitude": 18.5089,
+    "longitude": 73.8789,
+    "crime_type": "other",
+    "crime_count": 3,
+    "year": 2023
+  },
+  {
+    "area": "Tingre Nagar",
+    "latitude": 18.5789,
+    "longitude": 73.8978,
+    "crime_type": "domestic_violence",
+    "crime_count": 34,
+    "year": 2023
+  },
+  {
+    "area": "Tingre Nagar",
+    "latitude": 18.5789,
+    "longitude": 73.8978,
+    "crime_type": "assault",
+    "crime_count": 23,
+    "year": 2023
+  },
+  {
+    "area": "Tingre Nagar",
+    "latitude": 18.5789,
+    "longitude": 73.8978,
+    "crime_type": "harassment",
+    "crime_count": 21,
+    "year": 2023
+  },
+  {
+    "area": "Tingre Nagar",
+    "latitude": 18.5789,
+    "longitude": 73.8978,
+    "crime_type": "stalking",
+    "crime_count": 11,
+    "year": 2023
+  },
+  {
+    "area": "Tingre Nagar",
+    "latitude": 18.5789,
+    "longitude": 73.8978,
+    "crime_type": "dowry_deaths",
+    "crime_count": 5,
+    "year": 2023
+  },
+  {
+    "area": "Tingre Nagar",
+    "latitude": 18.5789,
+    "longitude": 73.8978,
+    "crime_type": "other",
+    "crime_count": 3,
+    "year": 2023
+  },
+  {
+    "area": "Mundhwa",
+    "latitude": 18.5345,
+    "longitude": 73.9215,
+    "crime_type": "domestic_violence",
+    "crime_count": 79,
+    "year": 2023
+  },
+  {
+    "area": "Mundhwa",
+    "latitude": 18.5345,
+    "longitude": 73.9215,
+    "crime_type": "assault",
+    "crime_count": 52,
+    "year": 2023
+  },
+  {
+    "area": "Mundhwa",
+    "latitude": 18.5345,
+    "longitude": 73.9215,
+    "crime_type": "harassment",
+    "crime_count": 39,
+    "year": 2023
+  },
+  {
+    "area": "Mundhwa",
+    "latitude": 18.5345,
+    "longitude": 73.9215,
+    "crime_type": "stalking",
+    "crime_count": 13,
+    "year": 2023
+  },
+  {
+    "area": "Mundhwa",
+    "latitude": 18.5345,
+    "longitude": 73.9215,
+    "crime_type": "dowry_deaths",
+    "crime_count": 3,
+    "year": 2023
+  },
+  {
+    "area": "Mundhwa",
+    "latitude": 18.5345,
+    "longitude": 73.9215,
+    "crime_type": "other",
+    "crime_count": 3,
+    "year": 2023
+  }
+]
