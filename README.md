@@ -36,6 +36,10 @@ python app.py
 
 Open [http://localhost:5000](http://localhost:5000) in your browser.
 
+## Screenshot
+
+![Map](ScreenShot/Map.png)
+
 ## Features
 
 - **Interactive Map** - Leaflet heatmap showing crime concentration across Pune
